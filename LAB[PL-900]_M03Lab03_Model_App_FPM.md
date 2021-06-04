@@ -49,3 +49,7 @@ Task #1: Create Application
 
 
 ![3-3_How_to_Build_Model-Driven_App_17](Evidencia/3-3_How_to_Build_Model-Driven_App_17.png)
+
+![3-3_How_to_Build_Model-Driven_App_18](Evidencia/3-3_How_to_Build_Model-Driven_App_18.png)
+
+![3-3_How_to_Build_Model-Driven_App_19](Evidencia/3-3_How_to_Build_Model-Driven_App_19.png)
