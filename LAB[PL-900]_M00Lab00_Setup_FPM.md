@@ -16,6 +16,8 @@ Task #2 - Create environment
 
 ![0-1b_Provision_Power_Apps_Portal_03](Evidencia/0-1b_Provision_Power_Apps_Portal_03.png)
 
+![0-2_Provision_Power_Apps_Portal_04](Evidencia/0-2_Provision_Power_Apps_Portal_04.png)
+
 Exercise #2: Provision a Power Apps porta
 
 Task #1: Create Power Apps portal
