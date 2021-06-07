@@ -8,27 +8,27 @@ Task #1: Install Power BI Desktop / Prepare Power BI service
 
 Navigate to Microsoft Store and Power BI download proccess
 
-![5-1_How_to_Build_Simple_Dashboard_Power_BI_01]Evidencia/5-1_How_to_Build_Simple_Dashboard_Power_BI_01.png)
+![5-1_How_to_Build_Simple_Dashboard_Power_BI_01](Evidencia/5-1_How_to_Build_Simple_Dashboard_Power_BI_01.png)
 
-![5-1_How_to_Build_Simple_Dashboard_Power_BI_02]Evidencia/5-1_How_to_Build_Simple_Dashboard_Power_BI_02.png)
+![5-1_How_to_Build_Simple_Dashboard_Power_BI_02](Evidencia/5-1_How_to_Build_Simple_Dashboard_Power_BI_02.png)
 
-![5-1_How_to_Build_Simple_Dashboard_Power_BI_03]Evidencia/5-1_How_to_Build_Simple_Dashboard_Power_BI_03.png)
+![5-1_How_to_Build_Simple_Dashboard_Power_BI_03](Evidencia/5-1_How_to_Build_Simple_Dashboard_Power_BI_03.png)
 
-![5-1_How_to_Build_Simple_Dashboard_Power_BI_04]Evidencia/5-1_How_to_Build_Simple_Dashboard_Power_BI_04.png)
+![5-1_How_to_Build_Simple_Dashboard_Power_BI_04](Evidencia/5-1_How_to_Build_Simple_Dashboard_Power_BI_04.png)
 
-![5-1_How_to_Build_Simple_Dashboard_Power_BI_05]Evidencia/5-1_How_to_Build_Simple_Dashboard_Power_BI_05.png)
+![5-1_How_to_Build_Simple_Dashboard_Power_BI_05](Evidencia/5-1_How_to_Build_Simple_Dashboard_Power_BI_05.png)
 
 Power BI installation process
 
-![5-1_How_to_Build_Simple_Dashboard_Power_BI_06]Evidencia/5-1_How_to_Build_Simple_Dashboard_Power_BI_06.png)
+![5-1_How_to_Build_Simple_Dashboard_Power_BI_06](Evidencia/5-1_How_to_Build_Simple_Dashboard_Power_BI_06.png)
 
-![5-1_How_to_Build_Simple_Dashboard_Power_BI_07]Evidencia/5-1_How_to_Build_Simple_Dashboard_Power_BI_07.png)
+![5-1_How_to_Build_Simple_Dashboard_Power_BI_07](Evidencia/5-1_How_to_Build_Simple_Dashboard_Power_BI_07.png)
 
-![5-1_How_to_Build_Simple_Dashboard_Power_BI_08]Evidencia/5-1_How_to_Build_Simple_Dashboard_Power_BI_08.png)
+![5-1_How_to_Build_Simple_Dashboard_Power_BI_08](Evidencia/5-1_How_to_Build_Simple_Dashboard_Power_BI_08.png)
 
-![5-1_How_to_Build_Simple_Dashboard_Power_BI_09]Evidencia/5-1_How_to_Build_Simple_Dashboard_Power_BI_09.png)
+![5-1_How_to_Build_Simple_Dashboard_Power_BI_09](Evidencia/5-1_How_to_Build_Simple_Dashboard_Power_BI_09.png)
 
-![5-1_How_to_Build_Simple_Dashboard_Power_BI_10]Evidencia/5-1_How_to_Build_Simple_Dashboard_Power_BI_10.png)
+![5-1_How_to_Build_Simple_Dashboard_Power_BI_10](Evidencia/5-1_How_to_Build_Simple_Dashboard_Power_BI_10.png)
 
 Download visits.pbix file
 
